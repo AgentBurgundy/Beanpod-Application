@@ -1,1 +1,1 @@
-# Beanpod-Application
+# Beanpod
